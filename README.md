@@ -21,4 +21,4 @@
 
 ### WIP
 - 정리중입니다 :)
-https://www.notion.so/1463b6bd0a1e47999b98be602bc41508
+https://www.notion.so/aba2132d8e264c95808267fd63e97a9a
