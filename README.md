@@ -13,7 +13,7 @@
 
 ## Certificate 📝
 - TOEIC 885
-- OPic IH
+- OPIc IH
 - 한국사능력검정 1급
 - 정보처리기사 필기 합격
 
